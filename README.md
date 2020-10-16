@@ -1,1 +1,1 @@
-# T---rex-runner
+# T-rex-runner
